@@ -1,2 +1,2 @@
-# B-S-webserver
+# B/S-webserver
 C/C++ Linux WebServer服务器
